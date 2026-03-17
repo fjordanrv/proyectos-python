@@ -1,0 +1,45 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 33_level_0
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Pedri,es ESP,MF,21,37,35,2879,32.0,4,5,9,4,0,0,3,0,2.2,2.2,7.4,9.6,92,360,136,0.13,0.16,0.28,0.13,0.28,0.07,0.23,0.30,0.07,0.30,Matches
+Raphinha,br BRA,"FW,MF",27,36,32,2839,31.5,18,9,27,16,2,2,4,0,19.2,17.6,12.7,30.3,94,135,349,0.57,0.29,0.86,0.51,0.79,0.61,0.40,1.01,0.56,0.96,Matches
+Robert Lewandowski,pl POL,FW,35,34,32,2667,29.6,27,2,29,24,3,4,1,0,27.1,24.0,2.3,26.3,27,48,164,0.91,0.07,0.98,0.81,0.88,0.92,0.08,0.99,0.81,0.89,Matches
+Lamine Yamal,es ESP,FW,17,35,31,2856,31.7,9,13,22,9,0,0,3,0,9.8,9.8,13.9,23.8,181,160,433,0.28,0.41,0.69,0.28,0.69,0.31,0.44,0.75,0.31,0.75,Matches
+Pau Cubarsí,es ESP,DF,17,35,29,2618,29.1,0,3,3,0,0,0,3,0,0.8,0.8,1.6,2.5,26,191,6,0.00,0.10,0.10,0.00,0.10,0.03,0.06,0.08,0.03,0.08,Matches
+Jules Koundé,fr FRA,DF,25,32,29,2605,28.9,2,3,5,2,0,0,4,0,1.8,1.8,3.9,5.7,44,165,190,0.07,0.10,0.17,0.07,0.17,0.06,0.13,0.20,0.06,0.20,Matches
+Iñigo Martínez,es ESP,DF,33,28,28,2490,27.7,0,4,4,0,0,0,5,0,0.5,0.5,2.6,3.1,70,260,11,0.00,0.14,0.14,0.00,0.14,0.02,0.10,0.11,0.02,0.11,Matches
+Alejandro Balde,es ESP,DF,20,32,26,2284,25.4,0,4,4,0,0,0,2,0,0.5,0.5,3.4,3.9,107,93,246,0.00,0.16,0.16,0.00,0.16,0.02,0.13,0.15,0.02,0.15,Matches
+Marc Casado,es ESP,MF,20,23,20,1611,17.9,1,3,4,1,0,0,4,1,1.1,1.1,1.4,2.4,12,107,24,0.06,0.17,0.22,0.06,0.22,0.06,0.08,0.13,0.06,0.13,Matches
+Iñaki Peña,es ESP,GK,25,16,15,1396,15.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,3,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Wojciech Szczęsny,pl POL,GK,34,15,15,1350,15.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Eric García,es ESP,"DF,MF",23,29,14,1566,17.4,2,3,5,2,0,0,4,0,2.3,2.3,0.8,3.1,18,109,22,0.11,0.17,0.29,0.11,0.29,0.13,0.05,0.18,0.13,0.18,Matches
+Gavi,es ESP,"MF,FW",19,26,14,1085,12.1,1,1,2,1,0,0,4,0,0.9,0.9,1.6,2.4,13,77,42,0.08,0.08,0.17,0.08,0.17,0.07,0.13,0.20,0.07,0.20,Matches
+Dani Olmo,es ESP,"MF,FW",26,25,13,1212,13.5,10,3,13,8,2,2,1,0,6.5,4.9,3.0,7.9,33,81,97,0.74,0.22,0.97,0.59,0.82,0.48,0.22,0.70,0.37,0.59,Matches
+Fermin López,es ESP,"MF,FW",21,28,12,1252,13.9,6,5,11,6,0,0,4,1,5.6,5.6,3.9,9.5,31,79,108,0.43,0.36,0.79,0.43,0.79,0.41,0.28,0.69,0.41,0.69,Matches
+Ferrán Torres,es ESP,"FW,MF",24,27,12,1106,12.3,10,6,16,10,0,0,1,1,8.0,8.0,3.1,11.0,23,35,98,0.81,0.49,1.30,0.81,1.30,0.65,0.25,0.90,0.65,0.90,Matches
+Gerard Martín,es ESP,DF,22,28,11,1038,11.5,1,3,4,1,0,0,2,0,0.5,0.5,1.1,1.6,10,40,122,0.09,0.26,0.35,0.09,0.35,0.04,0.10,0.14,0.04,0.14,Matches
+Ronald Araújo,uy URU,DF,25,12,11,754,8.4,1,1,2,1,0,0,3,0,1.0,1.0,0.4,1.4,6,49,3,0.12,0.12,0.24,0.12,0.24,0.11,0.05,0.17,0.11,0.17,Matches
+Frenkie de Jong,nl NED,MF,27,26,9,1143,12.7,2,2,4,2,0,0,3,0,0.7,0.7,2.0,2.6,36,120,24,0.16,0.16,0.31,0.16,0.31,0.05,0.16,0.21,0.05,0.21,Matches
+Marc-André ter Stegen,de GER,GK,32,8,8,674,7.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,2,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Héctor Fort,es ESP,DF,17,17,5,585,6.5,0,0,0,0,0,0,2,0,0.2,0.2,0.9,1.1,14,26,33,0.00,0.00,0.00,0.00,0.00,0.04,0.13,0.17,0.04,0.17,Matches
+Pablo Torre,es ESP,"MF,FW",21,10,4,310,3.4,3,1,4,3,0,0,0,0,0.4,0.4,0.8,1.1,5,17,20,0.87,0.29,1.16,0.87,1.16,0.11,0.23,0.33,0.11,0.33,Matches
+Marc Bernal,es ESP,MF,17,3,3,242,2.7,0,0,0,0,0,0,2,0,0.1,0.1,0.0,0.1,0,8,2,0.00,0.00,0.00,0.00,0.00,0.03,0.01,0.03,0.03,0.03,Matches
+Ansu Fati,es ESP,FW,21,6,3,233,2.6,0,0,0,0,0,0,1,0,1.0,1.0,0.2,1.1,7,6,32,0.00,0.00,0.00,0.00,0.00,0.38,0.06,0.44,0.38,0.44,Matches
+Pau Victor,es ESP,FW,22,21,2,319,3.5,2,1,3,2,0,0,2,0,3.0,3.0,0.9,3.9,6,11,28,0.56,0.28,0.85,0.56,0.85,0.85,0.24,1.09,0.85,1.09,Matches
+Andreas Christensen,dk DEN,DF,28,5,2,254,2.8,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.1,1,15,1,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.02,0.01,0.02,Matches
+Sergi Dominguez,es ESP,DF,19,3,2,172,1.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,13,1,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Daniel Rodriguez,es ESP,FW,18,1,1,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,2,9,0.00,0.00,0.00,0.00,0.00,0.06,0.00,0.06,0.06,0.06,Matches
+Ander Astralaga,es ESP,GK,20,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Álvaro Cortés,es ESP,DF,19,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+,,,,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Andres Cuenca,es ESP,DF,17,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Noah Darvich,de GER,MF,17,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Landry Farré,es ESP,DF,17,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Guillermo Fernandez,es ESP,MF,16,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Toni Fernández,es ESP,MF,16,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Diego Kochen,us USA,GK,18,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Alexis Olmedo,es ESP,DF,18,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Álex Valle,es ESP,DF,20,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Áron Yaakobishvili,hu HUN,GK,18,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Squad Total,,,24.7,38,418,3420,38.0,99,72,171,92,7,8,63,3,91.5,85.2,67.5,152.7,860,2212,2201,2.61,1.89,4.50,2.42,4.32,2.41,1.78,4.18,2.24,4.02,
+Opponent Total,,,26.8,38,418,3420,38.0,39,31,70,35,4,4,89,2,41.9,38.8,32.6,71.4,406,780,769,1.03,0.82,1.84,0.92,1.74,1.10,0.86,1.96,1.02,1.88,
