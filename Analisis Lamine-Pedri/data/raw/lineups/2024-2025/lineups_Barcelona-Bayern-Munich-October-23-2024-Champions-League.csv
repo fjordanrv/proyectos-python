@@ -1,0 +1,18 @@
+Player,#,Nation,Pos,Age,Min,Performance_Gls,Performance_Ast,Performance_PK,Performance_PKatt,Performance_Sh,Performance_SoT,Performance_CrdY,Performance_CrdR,Performance_Touches,Performance_Tkl,Performance_Int,Performance_Blocks,Expected_xG,Expected_npxG,Expected_xAG,SCA_SCA,SCA_GCA,Passes_Cmp,Passes_Att,Passes_Cmp%,Passes_PrgP,Carries_Carries,Carries_PrgC,Take-Ons_Att,Take-Ons_Succ,match_id
+Robert Lewandowski,9.0,pl POL,FW,36-063,84,1,0,0,0,3,1,0,0,27,0,0,1,0.8,0.8,0.2,2,0,10,16,62.5,0,15,0,0,0,710ee5bb
+Pau Victor,18.0,es ESP,FW,22-332,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,710ee5bb
+Raphinha,11.0,br BRA,LW,27-314,75,3,0,0,0,3,3,0,0,29,1,0,1,0.9,0.9,0.1,3,1,12,20,60.0,2,17,2,2,1,710ee5bb
+Dani Olmo,20.0,es ESP,"LW,RW",26-169,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,1,0,4,5,80.0,2,3,0,0,0,710ee5bb
+Lamine Yamal,19.0,es ESP,RW,17-102,84,0,1,0,0,1,0,0,0,51,3,0,1,0.1,0.1,0.1,2,1,26,32,81.3,3,27,4,11,6,710ee5bb
+Ansu Fati,10.0,es ESP,"LW,RW",21-358,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,710ee5bb
+Fermin López,16.0,es ESP,AM,21-165,60,0,2,0,0,0,0,0,0,17,1,0,0,0.0,0.0,1.5,0,0,8,9,88.9,1,11,1,2,1,710ee5bb
+Frenkie de Jong,21.0,nl NED,DM,27-164,30,0,0,0,0,2,0,0,0,20,1,0,2,0.4,0.4,0.0,1,0,15,16,93.8,0,9,1,0,0,710ee5bb
+Pedri,8.0,es ESP,"DM,AM",21-333,84,0,0,0,0,0,0,0,0,57,4,0,5,0.0,0.0,0.1,7,3,40,48,83.3,2,25,2,3,3,710ee5bb
+Gavi,6.0,es ESP,AM,20-079,6,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,710ee5bb
+Marc Casado,17.0,es ESP,DM,21-039,90,0,1,0,0,0,0,0,0,47,4,1,2,0.0,0.0,0.0,1,1,30,34,88.2,5,19,1,1,0,710ee5bb
+Alejandro Balde,3.0,es ESP,LB,21-005,90,0,0,0,0,1,0,0,0,47,1,0,1,0.0,0.0,0.0,1,0,36,42,85.7,0,16,2,4,2,710ee5bb
+Iñigo Martínez,5.0,es ESP,CB,33-159,90,0,0,0,0,1,0,0,0,64,0,1,3,0.1,0.1,0.0,1,1,44,53,83.0,2,25,0,0,0,710ee5bb
+Pau Cubarsí,2.0,es ESP,CB,17-275,90,0,0,0,0,1,0,0,0,47,0,3,1,0.0,0.0,0.0,2,1,34,42,81.0,0,24,0,0,0,710ee5bb
+Jules Koundé,23.0,fr FRA,RB,25-346,90,0,0,0,0,0,0,0,0,49,0,1,3,0.0,0.0,0.0,0,0,29,34,85.3,0,21,1,3,2,710ee5bb
+Iñaki Peña,13.0,es ESP,GK,25-235,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,33,44,75.0,0,29,0,0,0,710ee5bb
+16 Players,,,,,990,4,4,0,0,12,4,0,0,514,16,6,20,2.2,2.2,2.0,21,8,325,401,81.0,17,246,14,26,15,710ee5bb

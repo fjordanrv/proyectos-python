@@ -1,0 +1,51 @@
+match_id,match_url,date,season,competition,opponent,home_away,goals_for,goals_against,xG_for,xG_against,posesion
+64fa5074,https://fbref.com/en/matches/64fa5074/Mallorca-Barcelona-August-16-2025-La-Liga,2025-08-16,2025-2026,La Liga,Mallorca,Away,3.0,0.0,2.1,0.2,70.0
+28628853,https://fbref.com/en/matches/28628853/Levante-Barcelona-August-23-2025-La-Liga,2025-08-23,2025-2026,La Liga,Levante,Away,3.0,2.0,1.9,1.8,81.0
+38c8e28a,https://fbref.com/en/matches/38c8e28a/Rayo-Vallecano-Barcelona-August-31-2025-La-Liga,2025-08-31,2025-2026,La Liga,Rayo Vallecano,Away,1.0,1.0,1.8,1.8,56.0
+2ed529d8,https://fbref.com/en/matches/2ed529d8/Barcelona-Valencia-September-14-2025-La-Liga,2025-09-14,2025-2026,La Liga,Valencia,Home,6.0,0.0,3.9,0.1,71.0
+53708b73,https://fbref.com/en/matches/53708b73/Newcastle-United-Barcelona-September-18-2025-Champions-League,2025-09-18,2025-2026,Champions Lg,eng Newcastle Utd,Away,2.0,1.0,1.1,1.2,63.0
+0c64b4c3,https://fbref.com/en/matches/0c64b4c3/Barcelona-Getafe-September-21-2025-La-Liga,2025-09-21,2025-2026,La Liga,Getafe,Home,3.0,0.0,2.0,0.2,70.0
+fa8efe81,https://fbref.com/en/matches/fa8efe81/Oviedo-Barcelona-September-25-2025-La-Liga,2025-09-25,2025-2026,La Liga,Oviedo,Away,3.0,1.0,2.0,1.0,78.0
+65ee8953,https://fbref.com/en/matches/65ee8953/Barcelona-Real-Sociedad-September-28-2025-La-Liga,2025-09-28,2025-2026,La Liga,Real Sociedad,Home,2.0,1.0,2.2,1.0,74.0
+01f948be,https://fbref.com/en/matches/01f948be/Barcelona-Paris-Saint-Germain-October-1-2025-Champions-League,2025-10-01,2025-2026,Champions Lg,fr Paris S-G,Home,1.0,2.0,1.3,1.7,47.0
+bc939aab,https://fbref.com/en/matches/bc939aab/Sevilla-Barcelona-October-5-2025-La-Liga,2025-10-05,2025-2026,La Liga,Sevilla,Away,1.0,4.0,2.2,2.8,60.0
+e1d1e807,https://fbref.com/en/matches/e1d1e807/Barcelona-Girona-October-18-2025-La-Liga,2025-10-18,2025-2026,La Liga,Girona,Home,2.0,1.0,1.6,1.7,67.0
+d1cd53ab,https://fbref.com/en/matches/d1cd53ab/Barcelona-Olympiacos-October-21-2025-Champions-League,2025-10-21,2025-2026,Champions Lg,gr Olympiacos,Home,6.0,1.0,2.6,1.0,72.0
+9c9d1f09,https://fbref.com/en/matches/9c9d1f09/El-Clasico-Real-Madrid-Barcelona-October-26-2025-La-Liga,2025-10-26,2025-2026,La Liga,Real Madrid,Away,1.0,2.0,1.1,3.6,68.0
+3af93275,https://fbref.com/en/matches/3af93275/Barcelona-Elche-November-2-2025-La-Liga,2025-11-02,2025-2026,La Liga,Elche,Home,3.0,1.0,1.9,0.7,49.0
+e98a3106,https://fbref.com/en/matches/e98a3106/Club-Brugge-Barcelona-November-5-2025-Champions-League,2025-11-05,2025-2026,Champions Lg,be Club Brugge,Away,3.0,3.0,2.4,2.2,75.0
+12962665,https://fbref.com/en/matches/12962665/Celta-Vigo-Barcelona-November-9-2025-La-Liga,2025-11-09,2025-2026,La Liga,Celta Vigo,Away,4.0,2.0,3.2,0.6,61.0
+4dfa8af6,https://fbref.com/en/matches/4dfa8af6/Barcelona-Athletic-Club-November-22-2025-La-Liga,2025-11-22,2025-2026,La Liga,Athletic Club,Home,4.0,0.0,2.0,0.9,67.0
+1d5355d4,https://fbref.com/en/matches/1d5355d4/Chelsea-Barcelona-November-25-2025-Champions-League,2025-11-25,2025-2026,Champions Lg,eng Chelsea,Away,0.0,3.0,0.7,1.8,44.0
+29e7e630,https://fbref.com/en/matches/29e7e630/Barcelona-Alaves-November-29-2025-La-Liga,2025-11-29,2025-2026,La Liga,Alavés,Home,3.0,1.0,2.2,1.5,68.0
+d2ff2a0d,https://fbref.com/en/matches/d2ff2a0d/Barcelona-Atletico-Madrid-December-2-2025-La-Liga,2025-12-02,2025-2026,La Liga,Atlético Madrid,Home,3.0,1.0,3.6,1.0,57.0
+2e731a54,https://fbref.com/en/matches/2e731a54/Real-Betis-Barcelona-December-6-2025-La-Liga,2025-12-06,2025-2026,La Liga,Betis,Away,5.0,3.0,2.8,2.4,61.0
+f302a362,https://fbref.com/en/matches/f302a362/Barcelona-Eintracht-Frankfurt-December-9-2025-Champions-League,2025-12-09,2025-2026,Champions Lg,de Eint Frankfurt,Home,2.0,1.0,1.5,0.8,74.0
+dd618b82,https://fbref.com/en/matches/dd618b82/Barcelona-Osasuna-December-13-2025-La-Liga,2025-12-13,2025-2026,La Liga,Osasuna,Home,2.0,0.0,2.4,0.4,79.0
+23104cfb,https://fbref.com/en/matches/23104cfb/Guadalajara-Barcelona-December-16-2025-Copa-del-Rey,2025-12-16,2025-2026,Copa del Rey,Guadalajara,Away,2.0,0.0,,,83.0
+2b07e944,https://fbref.com/en/matches/2b07e944/Villarreal-Barcelona-December-21-2025-La-Liga,2025-12-21,2025-2026,La Liga,Villarreal,Away,2.0,0.0,2.6,1.6,78.0
+905c7a29,https://fbref.com/en/matches/905c7a29/Espanyol-Barcelona-January-3-2026-La-Liga,2026-01-03,2025-2026,La Liga,Espanyol,Away,2.0,0.0,1.9,1.6,68.0
+f4f02446,https://fbref.com/en/matches/f4f02446/Barcelona-Athletic-Club-January-7-2026-Supercopa-de-Espana,2026-01-07,2025-2026,Supercopa de España,Athletic Club,Neutral,5.0,0.0,,,80.0
+08d6715c,https://fbref.com/en/matches/08d6715c/El-Clasico-Barcelona-Real-Madrid-January-11-2026-Supercopa-de-Espana,2026-01-11,2025-2026,Supercopa de España,Real Madrid,Neutral,3.0,2.0,,,68.0
+,https://fbref.com/en/stathead/matchup/teams/dee3bbc8/206d90db/Racing-Santander-vs-Barcelona-History,2026-01-15,2025-2026,Copa del Rey,Racing Sant,Away,,,,,
+,https://fbref.com/en/stathead/matchup/teams/e31d1cd9/206d90db/Real-Sociedad-vs-Barcelona-History,2026-01-18,2025-2026,La Liga,Real Sociedad,Away,,,,,
+,https://fbref.com/en/stathead/matchup/teams/206d90db/111cbfb1/Barcelona-vs-Slavia-Prague-History,2026-01-21,2025-2026,Champions Lg,cz Slavia Prague,Away,,,,,
+,https://fbref.com/en/stathead/matchup/teams/ab358912/206d90db/Oviedo-vs-Barcelona-History,2026-01-25,2025-2026,La Liga,Oviedo,Home,,,,,
+,https://fbref.com/en/stathead/matchup/teams/206d90db/18050b20/Barcelona-vs-FC-Copenhagen-History,2026-01-28,2025-2026,Champions Lg,dk FC Copenhagen,Home,,,,,
+,https://fbref.com/en/stathead/matchup/teams/6c8b07df/206d90db/Elche-vs-Barcelona-History,2026-01-31,2025-2026,La Liga,Elche,Away,,,,,
+,https://fbref.com/en/stathead/matchup/teams/2aa12281/206d90db/Mallorca-vs-Barcelona-History,2026-02-08,2025-2026,La Liga,Mallorca,Home,,,,,
+,https://fbref.com/en/stathead/matchup/teams/9024a00a/206d90db/Girona-vs-Barcelona-History,2026-02-15,2025-2026,La Liga,Girona,Away,,,,,
+,https://fbref.com/en/stathead/matchup/teams/9800b6a1/206d90db/Levante-vs-Barcelona-History,2026-02-22,2025-2026,La Liga,Levante,Home,,,,,
+,https://fbref.com/en/stathead/matchup/teams/2a8183b3/206d90db/Villarreal-vs-Barcelona-History,2026-03-01,2025-2026,La Liga,Villarreal,Home,,,,,
+,https://fbref.com/en/stathead/matchup/teams/2b390eca/206d90db/Athletic-Club-vs-Barcelona-History,2026-03-08,2025-2026,La Liga,Athletic Club,Away,,,,,
+,https://fbref.com/en/stathead/matchup/teams/ad2be733/206d90db/Sevilla-vs-Barcelona-History,2026-03-15,2025-2026,La Liga,Sevilla,Home,,,,,
+,https://fbref.com/en/stathead/matchup/teams/98e8af82/206d90db/Rayo-Vallecano-vs-Barcelona-History,2026-03-22,2025-2026,La Liga,Rayo Vallecano,Home,,,,,
+,https://fbref.com/en/stathead/matchup/teams/db3b9613/206d90db/Atletico-Madrid-vs-Barcelona-History,2026-04-05,2025-2026,La Liga,Atlético Madrid,Away,,,,,
+,https://fbref.com/en/stathead/matchup/teams/a8661628/206d90db/Espanyol-vs-Barcelona-History,2026-04-12,2025-2026,La Liga,Espanyol,Home,,,,,
+,https://fbref.com/en/stathead/matchup/teams/7848bd64/206d90db/Getafe-vs-Barcelona-History,2026-04-19,2025-2026,La Liga,Getafe,Away,,,,,
+,https://fbref.com/en/stathead/matchup/teams/f25da7fb/206d90db/Celta-Vigo-vs-Barcelona-History,2026-04-22,2025-2026,La Liga,Celta Vigo,Home,,,,,
+,https://fbref.com/en/stathead/matchup/teams/206d90db/03c57e2b/Barcelona-vs-Osasuna-History,2026-05-03,2025-2026,La Liga,Osasuna,Away,,,,,
+,https://fbref.com/en/stathead/matchup/teams/53a2f082/206d90db/El-Clasico-Real-Madrid-vs-Barcelona-History,2026-05-10,2025-2026,La Liga,Real Madrid,Home,,,,,
+,https://fbref.com/en/stathead/matchup/teams/8d6fd021/206d90db/Alaves-vs-Barcelona-History,2026-05-13,2025-2026,La Liga,Alavés,Away,,,,,
+,https://fbref.com/en/stathead/matchup/teams/fc536746/206d90db/Real-Betis-vs-Barcelona-History,2026-05-17,2025-2026,La Liga,Betis,Home,,,,,
+,https://fbref.com/en/stathead/matchup/teams/dcc91a7b/206d90db/Valencia-vs-Barcelona-History,2026-05-24,2025-2026,La Liga,Valencia,Away,,,,,

@@ -1,0 +1,16 @@
+Player,#,Nation,Pos,Age,Min,Performance_Gls,Performance_Ast,Performance_PK,Performance_PKatt,Performance_Sh,Performance_SoT,Performance_CrdY,Performance_CrdR,Performance_Touches,Performance_Tkl,Performance_Int,Performance_Blocks,Expected_xG,Expected_npxG,Expected_xAG,SCA_SCA,SCA_GCA,Passes_Cmp,Passes_Att,Passes_Cmp%,Passes_PrgP,Carries_Carries,Carries_PrgC,Take-Ons_Att,Take-Ons_Succ,match_id
+Robert Lewandowski,9.0,pl POL,FW,36-066,90,2,0,0,0,4,2,0,0,28,1,0,3,1.4,1.4,0.2,2,0,8,13,61.5,1,19,1,0,0,e6bc2844
+Raphinha,11.0,br BRA,LW,27-317,90,1,1,0,0,3,1,0,0,40,0,0,1,0.7,0.7,0.9,5,1,21,30,70.0,4,21,3,0,0,e6bc2844
+Lamine Yamal,19.0,es ESP,RW,17-105,90,1,0,0,0,4,3,0,0,47,2,1,0,0.4,0.4,0.3,4,0,26,35,74.3,3,34,6,3,1,e6bc2844
+Fermin López,16.0,es ESP,AM,21-168,45,0,0,0,0,1,0,0,0,17,2,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,9,0,1,1,e6bc2844
+Frenkie de Jong,21.0,nl NED,DM,27-167,45,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.0,1,1,36,38,94.7,1,28,0,0,0,e6bc2844
+Pedri,8.0,es ESP,"DM,AM",21-336,86,0,0,0,0,1,1,0,0,72,2,0,2,0.0,0.0,0.0,3,0,55,62,88.7,4,48,0,1,0,e6bc2844
+Gavi,6.0,es ESP,DM,20-082,4,0,0,0,0,0,0,1,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,e6bc2844
+Marc Casado,17.0,es ESP,DM,21-042,64,0,1,0,0,0,0,1,0,66,2,2,2,0.0,0.0,0.3,1,1,47,57,82.5,4,45,0,0,0,e6bc2844
+Dani Olmo,20.0,es ESP,AM,26-172,26,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,11,12,91.7,2,14,1,2,0,e6bc2844
+Alejandro Balde,3.0,es ESP,LB,21-008,90,0,1,0,0,0,0,0,0,53,0,2,0,0.0,0.0,0.2,4,1,38,46,82.6,1,34,3,1,0,e6bc2844
+Iñigo Martínez,5.0,es ESP,CB,33-162,90,0,1,0,0,1,0,1,0,49,1,0,0,0.0,0.0,0.6,2,2,34,41,82.9,0,29,0,0,0,e6bc2844
+Pau Cubarsí,2.0,es ESP,CB,17-278,90,0,0,0,0,0,0,0,0,55,3,2,1,0.0,0.0,0.0,2,0,43,47,91.5,2,32,0,0,0,e6bc2844
+Jules Koundé,23.0,fr FRA,RB,25-349,90,0,0,0,0,0,0,1,0,72,3,0,3,0.0,0.0,0.0,0,0,50,60,83.3,2,42,2,4,1,e6bc2844
+Iñaki Peña,13.0,es ESP,GK,25-238,90,0,0,0,0,0,0,1,0,38,0,0,0,0.0,0.0,0.0,1,1,28,35,80.0,0,23,0,0,0,e6bc2844
+14 Players,,,,,990,4,4,0,0,15,7,5,0,594,18,7,12,2.6,2.6,2.5,26,7,405,488,83.0,24,380,16,12,3,e6bc2844

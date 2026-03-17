@@ -1,0 +1,18 @@
+Player,#,Nation,Pos,Age,Min,Performance_Gls,Performance_Ast,Performance_PK,Performance_PKatt,Performance_Sh,Performance_SoT,Performance_CrdY,Performance_CrdR,Performance_Touches,Performance_Tkl,Performance_Int,Performance_Blocks,Expected_xG,Expected_npxG,Expected_xAG,SCA_SCA,SCA_GCA,Passes_Cmp,Passes_Att,Passes_Cmp%,Passes_PrgP,Carries_Carries,Carries_PrgC,Take-Ons_Att,Take-Ons_Succ,match_id
+Robert Lewandowski,9.0,pl POL,FW,36-234,66,0,0,0,0,3,0,0,0,16,0,0,1,0.3,0.3,0.0,1,0,5,9,55.6,1,8,0,1,1,5160bd9d
+Ferrán Torres,7.0,es ESP,FW,25-042,24,0,0,0,0,1,1,0,0,11,0,0,0,0.1,0.1,0.1,1,0,5,9,55.6,1,2,0,0,0,5160bd9d
+Raphinha,11.0,br BRA,LW,28-119,90,0,0,0,0,2,1,0,0,52,2,1,1,0.1,0.1,0.4,2,0,30,42,71.4,7,31,3,3,2,5160bd9d
+Lamine Yamal,19.0,es ESP,RW,17-273,90,0,0,0,0,3,1,0,0,79,1,0,0,0.1,0.1,0.0,5,0,46,59,78.0,6,52,0,10,1,5160bd9d
+Fermin López,16.0,es ESP,AM,21-336,66,0,0,0,0,2,0,0,0,56,1,0,0,0.7,0.7,0.1,5,0,37,47,78.7,2,29,0,4,3,5160bd9d
+Gavi,6.0,es ESP,AM,20-250,24,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,9,9,100.0,3,5,0,0,0,5160bd9d
+Pedri,8.0,es ESP,DM,22-138,90,0,0,0,0,0,0,0,0,81,1,1,0,0.0,0.0,0.0,2,0,62,71,87.3,7,51,0,1,1,5160bd9d
+Eric García,24.0,es ESP,"DM,CB",24-093,79,0,0,0,0,0,0,0,0,78,4,0,0,0.0,0.0,0.0,0,0,65,70,92.9,3,51,2,0,0,5160bd9d
+Pau Cubarsí,2.0,es ESP,CB,18-080,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,4,0,0,0,5160bd9d
+Alejandro Balde,3.0,es ESP,LB,21-176,40,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,23,25,92.0,2,13,2,0,0,5160bd9d
+Gerard Martín,35.0,es ESP,LB,23-101,50,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,0,0,25,35,71.4,1,19,0,0,0,5160bd9d
+Iñigo Martínez,5.0,es ESP,CB,33-330,90,0,0,0,0,0,0,0,0,80,2,0,1,0.0,0.0,0.0,2,0,63,69,91.3,18,43,5,0,0,5160bd9d
+Ronald Araújo,4.0,uy URU,CB,26-036,45,0,0,0,0,0,0,0,0,43,2,1,1,0.0,0.0,0.0,0,0,31,37,83.8,5,26,1,0,0,5160bd9d
+Frenkie de Jong,21.0,nl NED,DM,27-335,45,0,0,0,0,0,0,1,0,51,1,0,0,0.0,0.0,0.0,1,0,44,46,95.7,6,37,3,0,0,5160bd9d
+Jules Koundé,23.0,fr FRA,RB,26-151,90,0,0,0,0,1,0,0,0,103,4,0,0,0.0,0.0,0.1,2,0,76,87,87.4,3,50,0,2,1,5160bd9d
+Wojciech Szczęsny,25.0,pl POL,GK,34-359,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,8,0,0,0,5160bd9d
+16 Players,,,,,990,0,0,0,0,12,3,1,0,767,19,3,6,1.4,1.4,0.6,22,0,553,650,85.1,66,429,16,21,9,5160bd9d

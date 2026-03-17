@@ -1,0 +1,18 @@
+Player,#,Nation,Pos,Age,Min,Performance_Gls,Performance_Ast,Performance_PK,Performance_PKatt,Performance_Sh,Performance_SoT,Performance_CrdY,Performance_CrdR,Performance_Touches,Performance_Tkl,Performance_Int,Performance_Blocks,Expected_xG,Expected_npxG,Expected_xAG,SCA_SCA,SCA_GCA,Passes_Cmp,Passes_Att,Passes_Cmp%,Passes_PrgP,Carries_Carries,Carries_PrgC,Take-Ons_Att,Take-Ons_Succ,match_id
+Robert Lewandowski,9.0,pl POL,FW,36-202,69,0,0,0,0,2,2,0,0,25,0,0,0,0.2,0.2,0.1,0,0,13,17,76.5,1,11,0,0,0,de8e7ccc
+Ferrán Torres,7.0,es ESP,FW,25-010,21,0,0,0,0,2,0,0,0,9,0,0,1,0.2,0.2,0.0,2,0,4,5,80.0,1,5,0,0,0,de8e7ccc
+Raphinha,11.0,br BRA,LW,28-087,90,2,1,0,0,3,2,0,0,56,1,0,2,0.6,0.6,0.1,7,1,35,42,83.3,3,33,2,6,1,de8e7ccc
+Lamine Yamal,19.0,es ESP,RW,17-241,81,1,1,0,0,5,2,0,0,61,2,1,0,0.3,0.3,0.5,5,2,25,38,65.8,2,37,5,12,5,de8e7ccc
+Fermin López,16.0,es ESP,RW,21-304,9,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,1,0,0,de8e7ccc
+Dani Olmo,20.0,es ESP,AM,26-308,69,0,0,0,0,2,0,0,0,55,0,0,1,0.3,0.3,0.1,5,0,34,40,85.0,8,29,1,4,2,de8e7ccc
+Gavi,6.0,es ESP,AM,20-218,21,0,0,0,0,1,0,0,0,10,0,0,1,0.0,0.0,0.0,1,0,6,7,85.7,0,2,0,0,0,de8e7ccc
+Pedri,8.0,es ESP,DM,22-106,90,0,0,0,0,1,0,0,0,103,5,0,2,0.0,0.0,0.2,6,0,84,88,95.5,12,68,1,2,0,de8e7ccc
+Frenkie de Jong,21.0,nl NED,DM,27-303,81,0,0,0,0,1,0,0,0,87,0,1,1,0.6,0.6,0.0,1,0,76,80,95.0,5,61,3,0,0,de8e7ccc
+Marc Casado,17.0,es ESP,DM,21-178,9,0,0,0,0,2,0,0,0,6,1,0,1,0.2,0.2,0.0,1,0,1,1,100.0,0,1,0,0,0,de8e7ccc
+Alejandro Balde,3.0,es ESP,LB,21-144,90,0,1,0,0,0,0,0,0,86,1,0,1,0.0,0.0,0.3,4,2,67,77,87.0,4,52,4,8,5,de8e7ccc
+Iñigo Martínez,5.0,es ESP,CB,33-298,86,0,0,0,0,0,0,0,0,107,1,0,3,0.0,0.0,0.0,1,0,85,100,85.0,8,70,0,0,0,de8e7ccc
+Eric García,24.0,es ESP,CB,24-061,4,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,0,0,0,de8e7ccc
+Ronald Araújo,4.0,uy URU,CB,26-004,90,0,0,0,0,1,0,0,0,85,5,0,0,0.1,0.1,0.0,0,0,69,74,93.2,1,54,0,0,0,de8e7ccc
+Jules Koundé,23.0,fr FRA,RB,26-119,90,0,0,0,0,0,0,0,0,69,3,0,1,0.0,0.0,0.7,3,0,61,63,96.8,7,45,3,1,1,de8e7ccc
+Wojciech Szczęsny,25.0,pl POL,GK,34-327,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,36,41,87.8,0,29,0,0,0,de8e7ccc
+16 Players,,,,,990,3,3,0,0,20,6,0,0,809,19,2,14,2.5,2.5,2.0,36,5,601,681,88.3,52,505,20,33,14,de8e7ccc

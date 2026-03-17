@@ -1,0 +1,19 @@
+Player,#,Nation,Pos,Age,Min,Performance_Gls,Performance_Ast,Performance_PK,Performance_PKatt,Performance_Sh,Performance_SoT,Performance_CrdY,Performance_CrdR,Performance_Touches,Performance_Tkl,Performance_Int,Performance_Blocks,Expected_xG,Expected_npxG,Expected_xAG,SCA_SCA,SCA_GCA,Passes_Cmp,Passes_Att,Passes_Cmp%,Passes_PrgP,Carries_Carries,Carries_PrgC,Take-Ons_Att,Take-Ons_Succ,match_id
+Robert Lewandowski,9.0,pl POL,FW,36-165,89,1,0,0,0,3,1,0,0,16,0,0,0,0.6,0.6,0.0,0,0,6,8,75.0,1,10,0,0,0,5dd33e2b
+Pau Victor,18.0,es ESP,FW,23-068,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,5dd33e2b
+Raphinha,11.0,br BRA,LW,28-050,66,0,0,0,0,1,0,1,0,48,0,0,2,0.1,0.1,0.1,1,0,23,35,65.7,1,26,3,2,1,5dd33e2b
+Ferrán Torres,7.0,es ESP,LW,24-339,24,0,0,0,0,1,1,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,2,12,0,1,1,5dd33e2b
+Lamine Yamal,19.0,es ESP,RW,17-204,90,0,0,0,0,2,1,1,0,60,1,0,0,0.0,0.0,0.2,5,1,24,38,63.2,2,48,6,17,11,5dd33e2b
+Pedri,8.0,es ESP,LM,22-069,90,0,0,0,0,1,1,0,0,94,1,0,0,0.1,0.1,0.1,5,0,71,84,84.5,7,63,3,3,3,5dd33e2b
+Marc Casado,17.0,es ESP,CM,21-141,45,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,2,0,25,26,96.2,1,19,1,0,0,5dd33e2b
+Frenkie de Jong,21.0,nl NED,CM,27-266,45,0,0,0,0,0,0,0,0,43,0,1,0,0.0,0.0,0.0,3,0,41,41,100.0,5,27,1,0,0,5dd33e2b
+Gavi,6.0,es ESP,RM,20-181,13,0,0,0,0,0,0,1,0,4,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,5dd33e2b
+Fermin López,16.0,es ESP,RM,21-267,77,0,0,0,0,2,0,1,0,31,1,0,0,0.1,0.1,0.0,0,0,11,17,64.7,0,21,2,5,2,5dd33e2b
+Alejandro Balde,3.0,es ESP,LB,21-107,82,0,0,0,0,1,0,0,0,69,0,0,0,0.0,0.0,0.0,2,0,53,57,93.0,5,46,3,5,1,5dd33e2b
+Gerard Martín,35.0,es ESP,LB,23-032,8,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,0,0,4,5,80.0,1,2,0,0,0,5dd33e2b
+Pau Cubarsí,2.0,es ESP,CB,18-011,90,0,0,0,0,0,0,0,0,132,1,0,2,0.0,0.0,0.0,0,0,111,122,91.0,8,93,1,0,0,5dd33e2b
+Ronald Araújo,4.0,uy URU,CB,25-332,45,0,0,0,0,0,0,1,0,60,0,0,0,0.0,0.0,0.0,0,0,52,57,91.2,1,43,0,0,0,5dd33e2b
+Eric García,24.0,es ESP,CB,24-024,45,0,0,0,0,0,0,0,0,51,1,0,1,0.0,0.0,0.0,0,0,46,47,97.9,4,44,0,0,0,5dd33e2b
+Jules Koundé,23.0,fr FRA,RB,26-082,90,0,0,0,0,0,0,0,0,95,2,0,3,0.0,0.0,0.0,1,0,75,85,88.2,9,63,0,0,0,5dd33e2b
+Wojciech Szczęsny,25.0,pl POL,GK,34-290,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,31,37,83.8,0,25,0,0,0,5dd33e2b
+17 Players,,,,,990,1,0,0,0,11,4,5,0,792,9,3,8,1.0,1.0,0.4,19,1,586,674,86.9,47,544,20,33,19,5dd33e2b

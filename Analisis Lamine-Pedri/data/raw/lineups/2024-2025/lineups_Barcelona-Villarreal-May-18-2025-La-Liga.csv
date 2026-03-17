@@ -1,0 +1,18 @@
+Player,#,Nation,Pos,Age,Min,Performance_Gls,Performance_Ast,Performance_PK,Performance_PKatt,Performance_Sh,Performance_SoT,Performance_CrdY,Performance_CrdR,Performance_Touches,Performance_Tkl,Performance_Int,Performance_Blocks,Expected_xG,Expected_npxG,Expected_xAG,SCA_SCA,SCA_GCA,Passes_Cmp,Passes_Att,Passes_Cmp%,Passes_PrgP,Carries_Carries,Carries_PrgC,Take-Ons_Att,Take-Ons_Succ,match_id
+Robert Lewandowski,9.0,pl POL,FW,36-270,73,0,0,0,0,1,1,0,0,19,1,0,0,0.2,0.2,0.0,1,0,6,8,75.0,0,12,1,2,0,db2637b7
+Pau Victor,18.0,es ESP,FW,23-173,17,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,2,0,0,0,db2637b7
+Raphinha,11.0,br BRA,LW,28-155,90,0,0,0,0,5,0,0,0,68,1,0,2,0.2,0.2,0.0,4,0,47,56,83.9,1,43,3,3,2,db2637b7
+Lamine Yamal,19.0,es ESP,RW,17-309,90,1,0,0,0,9,4,0,0,104,0,1,0,0.3,0.3,0.1,9,1,62,83,74.7,5,80,8,14,7,db2637b7
+Fermin López,16.0,es ESP,"AM,DM",22-007,90,1,0,0,0,6,3,0,0,77,0,1,1,0.6,0.6,0.1,5,1,48,62,77.4,9,33,2,3,1,db2637b7
+Pedri,8.0,es ESP,DM,22-174,45,0,0,0,0,0,0,0,0,67,0,0,1,0.0,0.0,0.2,7,1,59,64,92.2,10,42,3,2,2,db2637b7
+Frenkie de Jong,21.0,nl NED,DM,28-006,45,0,0,0,0,0,0,0,0,70,0,0,0,0.0,0.0,0.1,6,0,64,70,91.4,13,36,4,0,0,db2637b7
+Gavi,6.0,es ESP,DM,20-286,84,0,0,0,0,1,0,0,0,84,3,0,0,0.0,0.0,0.0,2,0,72,76,94.7,10,48,2,0,0,db2637b7
+Dani Olmo,20.0,es ESP,AM,27-011,6,0,0,0,0,0,0,1,0,9,0,0,0,0.0,0.0,0.0,3,0,6,7,85.7,1,6,2,1,0,db2637b7
+Gerard Martín,35.0,es ESP,LB,23-137,45,0,0,0,0,1,0,0,0,39,1,1,0,0.1,0.1,0.0,0,0,30,33,90.9,1,21,0,2,1,db2637b7
+Alejandro Balde,3.0,es ESP,LB,21-212,45,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,36,40,90.0,3,26,4,1,1,db2637b7
+Iñigo Martínez,5.0,es ESP,CB,34-001,90,0,0,0,0,0,0,0,0,73,2,0,0,0.0,0.0,0.0,1,0,61,65,93.8,6,50,1,0,0,db2637b7
+Pau Cubarsí,2.0,es ESP,CB,18-116,90,0,0,0,0,0,0,0,0,65,3,1,1,0.0,0.0,0.0,1,0,56,58,96.6,3,40,0,0,0,db2637b7
+Eric García,24.0,es ESP,RB,24-129,73,0,1,0,0,1,1,1,0,80,0,3,2,0.0,0.0,0.3,3,1,68,72,94.4,5,31,0,1,1,db2637b7
+Héctor Fort,32.0,es ESP,RB,18-289,17,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,1,0,18,20,90.0,1,8,0,0,0,db2637b7
+Marc-André ter Stegen,1.0,de GER,GK,33-018,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,7,0,0,0,db2637b7
+16 Players,,,,,990,2,1,0,0,24,9,2,0,844,12,7,8,1.4,1.4,0.7,44,4,659,742,88.8,69,485,30,29,15,db2637b7

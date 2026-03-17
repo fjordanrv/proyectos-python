@@ -1,0 +1,16 @@
+Player,#,Nation,Pos,Age,Min,Performance_Gls,Performance_Ast,Performance_PK,Performance_PKatt,Performance_Sh,Performance_SoT,Performance_CrdY,Performance_CrdR,Performance_Touches,Performance_Tkl,Performance_Int,Performance_Blocks,Expected_xG,Expected_npxG,Expected_xAG,SCA_SCA,SCA_GCA,Passes_Cmp,Passes_Att,Passes_Cmp%,Passes_PrgP,Carries_Carries,Carries_PrgC,Take-Ons_Att,Take-Ons_Succ,match_id
+Robert Lewandowski,9.0,pl POL,FW,36-122,90,0,0,0,0,5,1,0,0,30,1,0,0,0.9,0.9,0.0,2,0,15,18,83.3,4,18,3,0,0,ac04a5d2
+Fermin López,16.0,es ESP,LW,21-224,63,0,0,0,0,1,1,0,0,44,0,0,0,0.4,0.4,0.0,2,0,29,36,80.6,3,20,0,2,0,ac04a5d2
+Dani Olmo,20.0,es ESP,LW,26-228,27,0,0,0,0,1,0,0,0,31,1,0,0,0.1,0.1,0.2,3,0,19,26,73.1,2,22,0,1,1,ac04a5d2
+Raphinha,11.0,br BRA,RW,28-007,90,0,0,0,0,5,1,0,0,83,2,0,1,0.6,0.6,0.2,8,0,41,63,65.1,9,52,3,12,6,ac04a5d2
+Gavi,6.0,es ESP,AM,20-138,63,0,1,0,0,1,0,0,0,39,1,1,0,0.1,0.1,0.2,2,0,22,28,78.6,4,17,0,0,0,ac04a5d2
+Ferrán Torres,7.0,es ESP,AM,24-296,27,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.8,1,0,6,10,60.0,1,9,0,0,0,ac04a5d2
+Pedri,8.0,es ESP,DM,22-026,90,1,0,0,0,3,2,0,0,88,2,0,2,0.4,0.4,0.9,8,1,63,71,88.7,23,63,0,5,4,ac04a5d2
+Marc Casado,17.0,es ESP,DM,21-098,79,0,0,0,0,0,0,0,0,67,2,1,0,0.0,0.0,0.0,0,0,53,60,88.3,2,34,0,0,0,ac04a5d2
+Eric García,24.0,es ESP,DM,23-347,11,0,0,0,0,1,1,0,0,21,1,0,0,0.3,0.3,0.0,1,0,14,16,87.5,3,13,0,1,1,ac04a5d2
+Alejandro Balde,3.0,es ESP,LB,21-064,90,0,0,0,0,0,0,0,0,99,2,0,3,0.0,0.0,0.1,3,1,83,90,92.2,3,61,2,2,1,ac04a5d2
+Iñigo Martínez,5.0,es ESP,CB,33-218,90,0,0,0,0,2,1,0,0,103,1,1,3,0.0,0.0,0.0,4,0,88,92,95.7,18,69,10,0,0,ac04a5d2
+Pau Cubarsí,2.0,es ESP,CB,17-334,90,0,0,0,0,0,0,0,0,96,3,0,0,0.0,0.0,0.0,1,0,85,90,94.4,8,62,1,0,0,ac04a5d2
+Jules Koundé,23.0,fr FRA,RB,26-039,90,0,0,0,0,0,0,0,0,80,3,2,3,0.0,0.0,0.0,1,0,61,69,88.4,9,50,4,2,1,ac04a5d2
+Iñaki Peña,13.0,es ESP,GK,25-294,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,31,35,88.6,1,25,0,0,0,ac04a5d2
+14 Players,,,,,990,1,1,0,0,19,7,0,0,830,19,5,12,2.8,2.8,2.6,36,2,610,704,86.6,90,515,23,25,14,ac04a5d2

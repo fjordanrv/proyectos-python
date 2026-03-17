@@ -1,0 +1,16 @@
+Player,#,Nation,Pos,Age,Min,Performance_Gls,Performance_Ast,Performance_PK,Performance_PKatt,Performance_Sh,Performance_SoT,Performance_CrdY,Performance_CrdR,Performance_Touches,Performance_Tkl,Performance_Int,Performance_Blocks,Expected_xG,Expected_npxG,Expected_xAG,SCA_SCA,SCA_GCA,Passes_Cmp,Passes_Att,Passes_Cmp%,Passes_PrgP,Carries_Carries,Carries_PrgC,Take-Ons_Att,Take-Ons_Succ,match_id
+Robert Lewandowski,9.0,pl POL,FW,36-150,80,0,0,0,0,2,0,0,0,22,0,0,0,0.4,0.4,0.1,5,0,8,12,66.7,2,12,0,1,0,ac3f8e9a
+Ferrán Torres,7.0,es ESP,FW,24-324,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,1,1,0,0,0,ac3f8e9a
+Raphinha,11.0,br BRA,LW,28-035,90,0,0,0,0,5,0,1,0,68,0,0,0,0.6,0.6,0.0,1,0,39,59,66.1,4,31,5,3,1,ac3f8e9a
+Lamine Yamal,19.0,es ESP,RW,17-189,90,0,0,0,0,7,1,0,0,53,0,0,0,0.2,0.2,0.2,2,0,22,34,64.7,4,36,3,9,6,ac3f8e9a
+Gavi,6.0,es ESP,AM,20-166,61,0,0,0,0,1,0,0,0,26,0,0,0,0.2,0.2,0.0,3,0,14,19,73.7,4,10,0,0,0,ac3f8e9a
+Dani Olmo,20.0,es ESP,AM,26-256,29,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,2,0,20,23,87.0,5,14,0,1,1,ac3f8e9a
+Pedri,8.0,es ESP,DM,22-054,90,0,0,0,0,0,0,0,0,93,3,0,0,0.0,0.0,0.4,6,0,70,86,81.4,19,58,7,3,2,ac3f8e9a
+Marc Casado,17.0,es ESP,DM,21-126,45,0,0,0,0,0,0,0,0,43,2,2,0,0.0,0.0,0.0,0,0,28,37,75.7,1,17,0,0,0,ac3f8e9a
+Frenkie de Jong,21.0,nl NED,DM,27-251,45,0,0,0,0,1,1,0,0,55,1,0,0,0.0,0.0,0.0,3,0,43,49,87.8,7,32,0,0,0,ac3f8e9a
+Alejandro Balde,3.0,es ESP,LB,21-092,90,0,0,0,0,2,0,1,0,92,0,0,0,0.0,0.0,0.3,4,0,71,83,85.5,7,50,4,9,6,ac3f8e9a
+Pau Cubarsí,2.0,es ESP,CB,17-362,90,0,0,0,0,0,0,0,0,146,1,1,1,0.0,0.0,0.0,4,0,128,138,92.8,20,98,3,0,0,ac3f8e9a
+Ronald Araújo,4.0,uy URU,CB,25-317,90,0,0,0,0,0,0,0,0,120,1,2,0,0.0,0.0,0.0,2,0,104,113,92.0,9,80,2,0,0,ac3f8e9a
+Jules Koundé,23.0,fr FRA,RB,26-067,90,1,0,0,0,3,3,0,0,68,2,2,1,0.9,0.9,0.3,4,1,40,53,75.5,5,22,2,2,0,ac3f8e9a
+Iñaki Peña,13.0,es ESP,GK,25-322,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,1,15,0,0,0,ac3f8e9a
+14 Players,,,,,990,1,0,0,0,21,5,2,0,842,10,7,2,2.3,2.3,1.5,37,1,612,734,83.4,89,476,26,28,16,ac3f8e9a

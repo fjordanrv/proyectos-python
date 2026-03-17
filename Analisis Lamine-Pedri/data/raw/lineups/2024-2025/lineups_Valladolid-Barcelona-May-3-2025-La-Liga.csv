@@ -1,0 +1,18 @@
+Player,#,Nation,Pos,Age,Min,Performance_Gls,Performance_Ast,Performance_PK,Performance_PKatt,Performance_Sh,Performance_SoT,Performance_CrdY,Performance_CrdR,Performance_Touches,Performance_Tkl,Performance_Int,Performance_Blocks,Expected_xG,Expected_npxG,Expected_xAG,SCA_SCA,SCA_GCA,Passes_Cmp,Passes_Att,Passes_Cmp%,Passes_PrgP,Carries_Carries,Carries_PrgC,Take-Ons_Att,Take-Ons_Succ,match_id
+Pau Victor,18.0,es ESP,FW,23-158,61,0,0,0,0,2,2,0,0,12,0,0,0,0.2,0.2,0.0,0,0,4,6,66.7,0,5,1,1,0,af94853a
+Dani Olmo,20.0,es ESP,"AM,FW",26-361,29,0,0,0,0,1,1,0,0,17,0,0,0,0.1,0.1,0.0,1,0,15,16,93.8,2,13,0,1,1,af94853a
+Ansu Fati,10.0,es ESP,LW,22-184,45,0,0,0,0,3,1,0,0,30,3,0,0,0.2,0.2,0.0,3,0,15,20,75.0,0,15,0,3,3,af94853a
+Raphinha,11.0,br BRA,LW,28-140,45,1,0,0,0,4,1,0,0,39,1,0,0,0.4,0.4,0.1,3,0,26,32,81.3,4,22,2,2,1,af94853a
+Daniel Rodriguez,46.0,es ESP,RW,19-267,37,0,0,0,0,2,0,0,0,25,0,0,1,0.0,0.0,0.0,2,0,15,20,75.0,2,20,4,1,0,af94853a
+Lamine Yamal,19.0,es ESP,RW,17-294,53,0,0,0,0,5,0,0,0,54,0,0,0,0.4,0.4,0.1,5,0,29,40,72.5,2,41,4,12,7,af94853a
+Fermin López,16.0,es ESP,"AM,FW",21-357,90,1,0,0,0,3,1,0,0,57,0,0,0,0.4,0.4,0.3,5,0,35,43,81.4,6,32,1,1,0,af94853a
+Gavi,6.0,es ESP,DM,20-271,78,0,0,0,0,1,0,0,0,85,2,1,0,0.0,0.0,0.1,5,1,72,78,92.3,10,62,4,1,1,af94853a
+Eric García,24.0,es ESP,DM,24-114,12,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,11,13,84.6,1,9,0,1,0,af94853a
+Pedri,8.0,es ESP,DM,22-159,45,0,0,0,0,0,0,0,0,89,1,1,0,0.0,0.0,0.2,8,0,74,86,86.0,23,68,4,1,0,af94853a
+Frenkie de Jong,21.0,nl NED,DM,27-356,45,0,0,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.0,2,1,59,61,96.7,9,42,3,0,0,af94853a
+Gerard Martín,35.0,es ESP,LB,23-122,90,0,1,0,0,1,0,0,0,86,3,0,1,0.2,0.2,0.4,7,1,60,74,81.1,4,40,0,2,1,af94853a
+Andreas Christensen,15.0,dk DEN,CB,29-023,90,0,0,0,0,0,0,1,0,98,1,0,0,0.0,0.0,0.0,0,0,88,94,93.6,7,64,1,0,0,af94853a
+Ronald Araújo,4.0,uy URU,CB,26-057,90,0,0,0,0,0,0,1,0,84,0,1,2,0.0,0.0,0.0,1,0,69,77,89.6,11,46,0,0,0,af94853a
+Héctor Fort,32.0,es ESP,RB,18-274,90,0,0,0,0,2,0,0,0,93,4,0,2,0.1,0.1,0.0,2,1,70,76,92.1,5,54,1,2,0,af94853a
+Marc-André ter Stegen,1.0,de GER,GK,33-003,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,25,25,100.0,2,11,0,0,0,af94853a
+16 Players,,,,,990,2,1,0,0,24,6,2,0,874,16,3,6,1.9,1.9,1.2,45,4,667,761,87.6,88,544,25,28,14,af94853a
