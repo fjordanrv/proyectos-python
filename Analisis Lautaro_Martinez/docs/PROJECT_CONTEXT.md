@@ -6,7 +6,8 @@ This project analyzes attacking players from the top European leagues to find su
 
 - Source: pre-aggregated scouting data for Argentinian players (`currentseason_argentinos.xlsx`, `previousseason_argentinos.xlsx`).
 - Location: `src/data/raw/`.
-- Cleaned / analysis-ready outputs are written to `src/data/clean/`.
+- Cleaned / analysis-ready outputs (tablas Excel/CSV) are written to `src/data/clean/`.
+- `src/output/` is reserved for graphics only (e.g. PNG, PDF); no tables are written there.
 
 ## Key Outputs
 

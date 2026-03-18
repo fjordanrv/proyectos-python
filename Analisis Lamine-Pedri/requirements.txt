@@ -1,0 +1,14 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+mplsoccer
+selenium
+webdriver-manager
+cloudscraper
+beautifulsoup4
+lxml
+openpyxl

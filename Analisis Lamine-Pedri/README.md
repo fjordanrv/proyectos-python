@@ -52,24 +52,43 @@ El resultado final del proyecto es un dashboard en Tableau que permite:
 ## 📂 Estructura del proyecto
 
 ```
-analisis-lamine-pedri/
-│
-├── data/
-│   ├── raw/        # Datos originales
-│   └── clean/      # Datos procesados
-│
-├── notebooks/      # Análisis exploratorio
-├── src/            # Scripts de extracción y procesamiento
-├── output/         # Resultados y visualizaciones
+Analisis Lamine-Pedri/
+├── docs/
+│   ├── INFORMES_PDF_SETUP.md
+│   └── PROJECT_CONTEXT.md
 ├── README.md
+├── requirements.txt
+└── src/
+    ├── main.py              # CLI: pipeline por defecto y flags
+    ├── assets/              # Figuras estáticas
+    ├── core/
+    │   ├── paths.py
+    │   ├── matches.py       # Extracción/limpieza partidos (FBref)
+    │   ├── lineups.py       # Extracción alineaciones
+    │   ├── pedri_lamine_scenarios.py
+    │   └── scouting.py      # Clustering y reemplazos
+    ├── data/
+    │   ├── raw/
+    │   └── clean/
+    └── output/              # CSV escenarios Pedri/Lamine
+```
+
+### Ejecución
+
+Desde la carpeta del proyecto (con el venv activado y `pip install -r requirements.txt`):
+
+```bash
+python -m src.main                    # scouting + escenarios (temporada por defecto 2025-2026)
+python -m src.main --scouting-only   # solo replacements + Excel Tableau
+python -m src.main --extract-fixtures --season 2025-2026
+python -m src.main --scrape-lineups --season 2025-2026   # lento
 ```
 
 ---
 
 ## 🛠️ Tecnologías utilizadas
 
-- **Python** (Pandas, procesamiento de datos)
-- **Jupyter Notebook** (análisis exploratorio)
+- **Python** (Pandas, scikit-learn, cloudscraper, Selenium según uso)
 - **Tableau** (visualización)
 - **Open Data (FBref u otros)**
 
